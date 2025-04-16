@@ -1,0 +1,7 @@
+{
+    "rust-analyzer.runnables.extraEnv": {
+        "DOWNLOAD_DIR": ".",
+        "RUST_LOG": "DEBUG",
+        "TELOXIDE_TOKEN": ""
+    }
+}

@@ -1,0 +1,8 @@
+/target
+
+**/*.mp4
+**/*.MP4
+**/*.jpg
+**/*.mp4.json
+**/*.MP4.json
+**/*.jpg.json
